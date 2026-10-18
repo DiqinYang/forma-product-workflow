@@ -6,4 +6,4 @@ Environment files, package credentials, installed dependencies, build output, so
 
 The extracted source and new Git history were checked with Gitleaks and searched for known organization/project identifiers and original local paths before upload. No credential or known-identifier findings were reported. Screenshots show the reconstructed interface, rather than production data with labels obscured.
 
-Repository visibility remains private. A clean scan reduces accidental-disclosure risk but does not prove zero risk or establish publication rights. New files and any future public release require review.
+This repository was reviewed before its public portfolio release. A clean scan reduces accidental-disclosure risk but does not prove zero risk or establish publication rights. New files require review before publication.
